@@ -10,9 +10,28 @@
 ![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux) ![Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/coolify-white?style=for-the-badge&logo=coolify&logoColor=purple) ![Static Badge](https://img.shields.io/badge/dokploy-white?style=for-the-badge)
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=guntureka&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-![Stats](https://raw.githubusercontent.com/guntureka/guntureka/main/profile/stats.svg)
-![Top Languages](https://raw.githubusercontent.com/guntureka/guntureka/main/profile/top-langs.svg)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=guntureka&theme=dark&hide_border=true&card_width=1000"
+    width="1000"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/guntureka/guntureka/main/profile/stats.svg"
+    width="500"
+    align="middle"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://raw.githubusercontent.com/guntureka/guntureka/main/profile/top-langs.svg"
+    width="380"
+    align="middle"
+    alt="Top Languages"
+  />
+</p>
 
 ### 🏆 Trophies
 
