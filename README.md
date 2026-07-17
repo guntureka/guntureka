@@ -25,9 +25,12 @@
     align="middle"
     alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/guntureka/guntureka/main/profile/top-langs.svg"
-    width="380"
+    width="500"
     align="middle"
     alt="Top Languages"
   />
