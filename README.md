@@ -11,8 +11,8 @@
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=guntureka&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![Stats](https://raw.githubusercontent.com/guntureka/guntureka/main/profile/stats.svg)
+![Top Languages](https://raw.githubusercontent.com/guntureka/guntureka/main/profile/top-langs.svg)
 
 ### 🏆 Trophies
 
