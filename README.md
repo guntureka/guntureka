@@ -20,13 +20,13 @@ If it involves APIs, databases, or servers — I'm in. 🚀
 ![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux) ![Static Badge](https://img.shields.io/badge/omarchy-white?style=for-the-badge&logo=omarchy) ![Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/podman-white?style=for-the-badge&logo=podman&logoColor=purple) ![Static Badge](https://img.shields.io/badge/coolify-white?style=for-the-badge&logo=coolify&logoColor=purple) ![Static Badge](https://img.shields.io/badge/dokploy-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=black) ![Static Badge](https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black) ![Static Badge](https://img.shields.io/badge/railway-white?style=for-the-badge&logo=railway&logoColor=black)
 
 ### 📊 Stats
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=guntureka&theme=dark&hide_border=true&card_width=1000"
     width="1000"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
